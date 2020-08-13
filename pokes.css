@@ -1,0 +1,35 @@
+ul {
+    list-style: none;
+    display: inline-block;
+}
+li {
+    float: left;
+    margin-left: 80px;
+    margin-right: 60px;
+    text-align: center;
+    padding: 40px;
+}
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    padding: 50px;
+    font-size: 50px;
+    text-shadow: 2px 2px gray;
+ }
+
+body {
+    background-color: #C5E3BF;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+h3 {
+    text-align: center;
+    padding: 20px;
+}
